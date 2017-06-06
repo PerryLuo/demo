@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+}
+
+#header{
+    margin-left: 2.5%;
+}
+
+#main-photo{
+    background-image: url("photos/flowershop.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+#main-photo-overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7);
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+}
+
+#main-text1{
+    color: red;
+    z-index: 3;
+}
+
+#main-text2{
+    color:white;
+    background: #66d160;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#menu{
+    background-color: #73a370;
+    background-size: contain;
+}
+
+#menu-icon{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}

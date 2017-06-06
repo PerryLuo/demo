@@ -1,0 +1,55 @@
+*{
+	margin-left: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.fm-header{
+   background: #e3e9ed;
+   margin-bottom: 50px;
+   margin-top: 30px;
+}
+
+.fm-header ul li{
+   display: inline-block;
+}
+
+.fm-header ul li a{
+   text-decoration: none;
+   padding: 10px 60px 10px 60px;
+   color: black;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.heading{
+   margin-top: 50px;
+   font-size: 40px;
+	margin-left: 30px;
+	text-align: center;
+}
+
+.fm-footer{
+	text-align: center;
+	background: #e3e9ed;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: 14px;
+}
+
+#background{
+	margin-left: 60px;
+}
+
+#experience{
+	margin-left: 60px;
+}
+
+li{
+	margin-left: 80px;
+	text-align: center;
+}
+
+
+.div photos{
+	margin-left: 80px;
+}
